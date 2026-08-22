@@ -67,7 +67,7 @@ me = BeninS()
   <img src="https://img.shields.io/badge/YouTube-%40loop__2002-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0b1026" alt="YouTube @loop_2002" />
 </a>
 
-*Check out my channel for Music Content!* 🎬
+*Check out my channel for Edited Songs Content!* 🎬
 
 </div>
 
