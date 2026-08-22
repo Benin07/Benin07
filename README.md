@@ -5,7 +5,7 @@
 
 <!-- Animated typing -->
 <a href="https://github.com/Benin07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8BA7FF&center=true&vCenter=true&width=650&lines=%F0%9F%8C%A0+Shooting+for+the+stars%2C+one+commit+at+a+time;%F0%9F%90%8D+Python+Developer;%F0%9F%8C%99+Debugging+under+the+night+sky" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8BA7FF&center=true&vCenter=true&width=650&lines=%F0%9F%8C%A0+Shooting+for+the+stars%2C+1+commit+/+time;%F0%9F%90%8D+Python+Developer;%F0%9F%8C%99+Debugging+under+the+night+sky" alt="Typing SVG" />
 </a>
 
 </div>
