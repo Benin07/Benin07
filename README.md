@@ -55,9 +55,6 @@ me = BeninS()
 
 <br/><br/>
 
-<!-- Meteor-trail contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benin07&bg_color=0b1026&color=8BA7FF&line=5643cc&point=e6ecff&area=true&area_color=1b2a5e&hide_border=true&custom_title=%E2%98%84%EF%B8%8F%20Meteor%20Trail%20of%20Contributions" width="95%" alt="Contribution Graph" />
-
 ## 📺 My YouTube — @loop_2002
 
 <div align="center">
