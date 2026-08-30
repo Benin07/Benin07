@@ -4,9 +4,24 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0b1026,50:1b2a5e,100:5643cc&text=Benin%20S&fontColor=e6ecff&fontSize=60&desc=%F0%9F%8C%A0%20Python%20Developer%20%7C%20Night%20Owl%20Coder%20%F0%9F%8C%99&descSize=18&descAlignY=70&animation=fadeIn" width="100%" alt="Benin S — Python Developer"/>
 
 <!-- Animated typing -->
-<a href="https://github.com/Benin07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8BA7FF&center=true&vCenter=true&width=650&lines=%F0%9F%8C%A0+Shooting+for+the+stars%2C+1+commit+/+time;%F0%9F%90%8D+Python+Developer;%F0%9F%8C%99+Debugging+under+the+night+sky" alt="Typing SVG" />
-</a>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Typing Animation</title>
+    <meta name="description" content="A GitHub readme typing animation." />
+    <meta property="og:title" content="Typing Animation" />
+    <meta property="og:description" content="A GitHub readme typing animation." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
 
 </div>
 
