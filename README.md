@@ -5,11 +5,12 @@
 
 <!-- Animated typing -->
 <a href="https://github.com/Benin07">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8BA7FF&center=true&vCenter=true&width=650&lines=%F0%9F%8C%A0+Shooting+for+the+stars%2C+1+commit+/+time;%F0%9F%90%8D+Python+Developer;%F0%9F%8C%99+Debugging+under+the+night+sky;%F0%9F%8E%A7+Vibe+coder"alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8BA7FF&center=true&vCenter=true&width=650&lines=%F0%9F%8C%A0+Shooting+for+the+stars%2C+1+commit+at+a+time;%F0%9F%90%8D+Python+Developer;%F0%9F%8C%99+Debugging+under+the+night+sky;%F0%9F%8E%A7+Vibe+coder" alt="Typing SVG" />
 </a>
+
 </div>
 
-<br/>
+---
 
 ## 🌌 About Me
 
@@ -22,7 +23,7 @@ class BeninS:
     def __init__(self):
         self.name = "Benin S"
         self.role = "Python Developer"
-        self.languages = ["Python", "SQL", "Bash"]
+        self.languages = ["Python", "JavaScript", "SQL", "Bash"]
         self.interests = ["Backend Development", "Automation", "Data & APIs"]
         self.youtube = "https://www.youtube.com/@loop_2002"
         self.motto = "Shoot for the stars — even a meteor leaves a trail ☄️"
@@ -34,26 +35,42 @@ class BeninS:
 me = BeninS()
 ```
 
-<br/>
+---
 
 ## ☄️ Tech Constellation
 
 <div align="center">
 
+**🐍 Core & Backend**
+
 ![Python](https://img.shields.io/badge/Python-0b1026?style=for-the-badge&logo=python&logoColor=8BA7FF)
 ![Django](https://img.shields.io/badge/Django-0b1026?style=for-the-badge&logo=django&logoColor=8BA7FF)
 ![Flask](https://img.shields.io/badge/Flask-0b1026?style=for-the-badge&logo=flask&logoColor=8BA7FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0b1026?style=for-the-badge&logo=fastapi&logoColor=8BA7FF)
+
+**⚛️ Frontend**
+
+![React](https://img.shields.io/badge/React-0b1026?style=for-the-badge&logo=react&logoColor=8BA7FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0b1026?style=for-the-badge&logo=tailwindcss&logoColor=8BA7FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1026?style=for-the-badge&logo=javascript&logoColor=8BA7FF)
+
+**🗄️ Data & Databases**
+
 ![Pandas](https://img.shields.io/badge/Pandas-0b1026?style=for-the-badge&logo=pandas&logoColor=8BA7FF)
 ![NumPy](https://img.shields.io/badge/NumPy-0b1026?style=for-the-badge&logo=numpy&logoColor=8BA7FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1026?style=for-the-badge&logo=postgresql&logoColor=8BA7FF)
 ![MySQL](https://img.shields.io/badge/MySQL-0b1026?style=for-the-badge&logo=mysql&logoColor=8BA7FF)
+
+**🛠️ Tools & Environment**
+
 ![Docker](https://img.shields.io/badge/Docker-0b1026?style=for-the-badge&logo=docker&logoColor=8BA7FF)
 ![Git](https://img.shields.io/badge/Git-0b1026?style=for-the-badge&logo=git&logoColor=8BA7FF)
 ![Linux](https://img.shields.io/badge/Linux-0b1026?style=for-the-badge&logo=linux&logoColor=8BA7FF)
 ![VS Code](https://img.shields.io/badge/VS_Code-0b1026?style=for-the-badge&logo=visualstudiocode&logoColor=8BA7FF)
 
-<br/><br/>
+</div>
+
+---
 
 ## 📺 My YouTube — @loop_2002
 
@@ -67,7 +84,7 @@ me = BeninS()
 
 </div>
 
-<br/>
+---
 
 ## 🛰️ Connect Across the Cosmos
 
@@ -88,7 +105,7 @@ me = BeninS()
 <a href="https://in.pinterest.com/stephenbeninssbb/">
   <img src="https://img.shields.io/badge/Pinterest-stephenbeninssbb-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=0b1026" alt="Pinterest" />
 </a>
-<a href="https://benin0304.my.canva.site/benin-s">
+<a href="https://benins.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-benin--s-8BA7FF?style=for-the-badge&logo=canva&logoColor=white&labelColor=0b1026" alt="Portfolio" />
 </a>
 
@@ -102,7 +119,7 @@ me = BeninS()
 >
 > 🐍 *"Simple is better than complex."* — The Zen of Python
 
+</div>
+
 <!-- Night sky footer with twinkling effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b1026,50:1b2a5e,100:5643cc&section=footer&text=%E2%9C%A8%20See%20you%20among%20the%20stars%20%E2%9C%A8&fontColor=e6ecff&fontSize=22&fontAlignY=75&animation=twinkling" width="100%"/>
-
-</div>
