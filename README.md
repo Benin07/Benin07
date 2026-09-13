@@ -5,7 +5,7 @@
 
 <!-- Animated typing -->
 <a href="https://github.com/Benin07">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8BA7FF&center=true&vCenter=true&width=650&lines=%F0%9F%8C%A0+Shooting+for+the+stars%2C+1+commit+at+a+time;%F0%9F%90%8D+Python+Developer;%F0%9F%8C%99+Debugging+under+the+night+sky;%F0%9F%8E%A7+Vibe+coder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8BA7FF&center=true&vCenter=true&width=850&lines=%F0%9F%8C%A0+Shooting+for+the+stars%2C+One+commit+at+a+time;%F0%9F%90%8D+Python+Developer;%F0%9F%8C%99+Debugging+under+the+night+sky;%F0%9F%8E%A7+Vibe+coder" alt="Typing SVG" />
 </a>
 
 </div>
@@ -123,3 +123,4 @@ me = BeninS()
 
 <!-- Night sky footer with twinkling effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b1026,50:1b2a5e,100:5643cc&section=footer&text=%E2%9C%A8%20See%20you%20among%20the%20stars%20%E2%9C%A8&fontColor=e6ecff&fontSize=22&fontAlignY=75&animation=twinkling" width="100%"/>
+
